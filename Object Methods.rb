@@ -10,7 +10,6 @@
 #Assuming a variable number is already defined, check whether a given number is even or not. 
 
 
-
 #Solution
 
 

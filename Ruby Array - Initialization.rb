@@ -12,6 +12,7 @@
 
 #Solution
 
+
 array = []
 
 array_1 = [nil]

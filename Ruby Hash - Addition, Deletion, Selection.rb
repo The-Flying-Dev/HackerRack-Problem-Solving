@@ -1,7 +1,7 @@
 #Problem 
 
 
-# A key-value pair [543121, 100] to the hackerrank object using store
+# Add a key-value pair [543121, 100] to the hackerrank object using store
 
 # Retain all key-value pairs where keys are Integers ( clue : is_a? Integer )
 
